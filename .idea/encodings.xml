@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-weather-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-city-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-collection-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-data-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-eureka-client-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-eureka-client-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-report-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-zuul" charset="UTF-8" />
+  </component>
+</project>

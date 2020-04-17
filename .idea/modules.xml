@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-city-server/weather-city-server.iml" filepath="$PROJECT_DIR$/weather-city-server/weather-city-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-collection-server/weather-collection-server.iml" filepath="$PROJECT_DIR$/weather-collection-server/weather-collection-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-data-server/weather-data-server.iml" filepath="$PROJECT_DIR$/weather-data-server/weather-data-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-eureka-client/weather-eureka-client.iml" filepath="$PROJECT_DIR$/weather-eureka-client/weather-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-eureka-client-feign/weather-eureka-client-feign.iml" filepath="$PROJECT_DIR$/weather-eureka-client-feign/weather-eureka-client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-eureka-server/weather-eureka-server.iml" filepath="$PROJECT_DIR$/weather-eureka-server/weather-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-report-server/weather-report-server.iml" filepath="$PROJECT_DIR$/weather-report-server/weather-report-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-zuul/weather-zuul.iml" filepath="$PROJECT_DIR$/weather-zuul/weather-zuul.iml" />
+    </modules>
+  </component>
+</project>

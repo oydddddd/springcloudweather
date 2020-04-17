@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="weather-city-server" />
+        <module name="weather-collection-server" />
+        <module name="weather-data-server" />
+        <module name="weather-eureka-client" />
+        <module name="weather-eureka-client-feign" />
+        <module name="weather-eureka-server" />
+        <module name="weather-report-server" />
+        <module name="weather-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="micro-weather-basic" target="1.8" />
+      <module name="micro-weather-basic (1)" target="1.8" />
+      <module name="weather-city-server" target="1.8" />
+      <module name="weather-collection-server" target="1.8" />
+      <module name="weather-data-server" target="1.8" />
+      <module name="weather-eureka-client" target="1.8" />
+      <module name="weather-eureka-client-feign" target="1.8" />
+      <module name="weather-eureka-server" target="1.8" />
+      <module name="weather-report-server" target="1.8" />
+      <module name="weather-zuul" target="1.8" />
+      <module name="weathereurekaclient" target="1.8" />
+      <module name="weathereurekaclientfeign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="micro-weather-basic" options="-parameters" />
+      <module name="micro-weather-basic (1)" options="-parameters" />
+      <module name="weather-city-server" options="-parameters" />
+      <module name="weather-collection-server" options="-parameters" />
+      <module name="weather-data-server" options="-parameters" />
+      <module name="weather-eureka-client" options="-parameters" />
+      <module name="weather-eureka-client-feign" options="-parameters" />
+      <module name="weather-eureka-server" options="-parameters" />
+      <module name="weather-report-server" options="-parameters" />
+      <module name="weather-zuul" options="-parameters" />
+      <module name="weathereurekaclient" options="-parameters" />
+      <module name="weathereurekaclientfeign" options="-parameters" />
+    </option>
+  </component>
+</project>
